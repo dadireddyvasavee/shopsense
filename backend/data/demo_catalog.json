@@ -1,0 +1,662 @@
+[
+ {
+  "sku": "DEMO-001",
+  "name": "Nimbus Air 14",
+  "category": "laptops",
+  "brand": "Nimbus",
+  "price": 58990,
+  "description": "14-inch laptop with i5-1335U, 16 GB RAM and 512 GB SSD.",
+  "specifications": {
+   "processor": "i5-1335U",
+   "ram_gb": 16,
+   "storage_gb": 512,
+   "screen_in": 14,
+   "weight_kg": 1.3,
+   "battery_hours": 10
+  },
+  "attributes": [
+   "lightweight",
+   "long battery",
+   "programming"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-002",
+  "name": "Nimbus Pro 16",
+  "category": "laptops",
+  "brand": "Nimbus",
+  "price": 89990,
+  "description": "16-inch laptop with i7-13700H, 32 GB RAM and 1024 GB SSD.",
+  "specifications": {
+   "processor": "i7-13700H",
+   "ram_gb": 32,
+   "storage_gb": 1024,
+   "screen_in": 16,
+   "weight_kg": 2.1,
+   "battery_hours": 8
+  },
+  "attributes": [
+   "programming",
+   "performance",
+   "large screen"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-003",
+  "name": "Voltra Book 15",
+  "category": "laptops",
+  "brand": "Voltra",
+  "price": 45990,
+  "description": "15.6-inch laptop with Ryzen 5 7530U, 8 GB RAM and 512 GB SSD.",
+  "specifications": {
+   "processor": "Ryzen 5 7530U",
+   "ram_gb": 8,
+   "storage_gb": 512,
+   "screen_in": 15.6,
+   "weight_kg": 1.7,
+   "battery_hours": 12
+  },
+  "attributes": [
+   "budget",
+   "student"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-004",
+  "name": "Voltra Book 15 Plus",
+  "category": "laptops",
+  "brand": "Voltra",
+  "price": 64990,
+  "description": "15.6-inch laptop with Ryzen 7 7735HS, 16 GB RAM and 512 GB SSD.",
+  "specifications": {
+   "processor": "Ryzen 7 7735HS",
+   "ram_gb": 16,
+   "storage_gb": 512,
+   "screen_in": 15.6,
+   "weight_kg": 1.8,
+   "battery_hours": 6
+  },
+  "attributes": [
+   "programming",
+   "performance"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-005",
+  "name": "Kestrel G15 Gaming",
+  "category": "laptops",
+  "brand": "Kestrel",
+  "price": 82990,
+  "description": "15.6-inch laptop with Ryzen 7 7840HS + RTX 4060, 16 GB RAM and 1024 GB SSD.",
+  "specifications": {
+   "processor": "Ryzen 7 7840HS + RTX 4060",
+   "ram_gb": 16,
+   "storage_gb": 1024,
+   "screen_in": 15.6,
+   "weight_kg": 2.4,
+   "battery_hours": 6
+  },
+  "attributes": [
+   "gaming",
+   "performance"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-006",
+  "name": "Kestrel Slim 13",
+  "category": "laptops",
+  "brand": "Kestrel",
+  "price": 69990,
+  "description": "13.3-inch laptop with i7-1355U, 16 GB RAM and 1024 GB SSD.",
+  "specifications": {
+   "processor": "i7-1355U",
+   "ram_gb": 16,
+   "storage_gb": 1024,
+   "screen_in": 13.3,
+   "weight_kg": 1.1,
+   "battery_hours": 14
+  },
+  "attributes": [
+   "lightweight",
+   "premium",
+   "programming"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-007",
+  "name": "Orbita Chromebook 14",
+  "category": "laptops",
+  "brand": "Orbita",
+  "price": 24990,
+  "description": "14-inch laptop with MediaTek Kompanio 520, 4 GB RAM and 64 GB SSD.",
+  "specifications": {
+   "processor": "MediaTek Kompanio 520",
+   "ram_gb": 4,
+   "storage_gb": 64,
+   "screen_in": 14,
+   "weight_kg": 1.4,
+   "battery_hours": 6
+  },
+  "attributes": [
+   "budget",
+   "student"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-008",
+  "name": "Orbita Creator 14",
+  "category": "laptops",
+  "brand": "Orbita",
+  "price": 74990,
+  "description": "14.5-inch laptop with i7-13620H, 16 GB RAM and 1024 GB SSD.",
+  "specifications": {
+   "processor": "i7-13620H",
+   "ram_gb": 16,
+   "storage_gb": 1024,
+   "screen_in": 14.5,
+   "weight_kg": 1.6,
+   "battery_hours": 10
+  },
+  "attributes": [
+   "creative",
+   "programming",
+   "oled"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-009",
+  "name": "Stride Cloud Walk",
+  "category": "shoes",
+  "brand": "Stride",
+  "price": 2999,
+  "description": "Walking / Comfort shoe with mesh upper.",
+  "specifications": {
+   "upper_material": "mesh",
+   "cushioning": "high",
+   "weight_g": 350
+  },
+  "attributes": [
+   "walking",
+   "comfort",
+   "cushioned"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-010",
+  "name": "Stride Trail Pro",
+  "category": "shoes",
+  "brand": "Stride",
+  "price": 5499,
+  "description": "Running / Trail shoe with synthetic upper.",
+  "specifications": {
+   "upper_material": "synthetic",
+   "cushioning": "medium",
+   "weight_g": 240
+  },
+  "attributes": [
+   "running",
+   "trail",
+   "durable"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-011",
+  "name": "Pacelyn Daily Walker",
+  "category": "shoes",
+  "brand": "Pacelyn",
+  "price": 1899,
+  "description": "Walking / Budget shoe with knit upper.",
+  "specifications": {
+   "upper_material": "knit",
+   "cushioning": "high",
+   "weight_g": 350
+  },
+  "attributes": [
+   "walking",
+   "budget",
+   "comfort"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-012",
+  "name": "Pacelyn Racer 2",
+  "category": "shoes",
+  "brand": "Pacelyn",
+  "price": 6999,
+  "description": "Running / Lightweight shoe with engineered mesh upper.",
+  "specifications": {
+   "upper_material": "engineered mesh",
+   "cushioning": "medium",
+   "weight_g": 260
+  },
+  "attributes": [
+   "running",
+   "lightweight",
+   "performance"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-013",
+  "name": "Urbanfoot Leather Loafer",
+  "category": "shoes",
+  "brand": "Urbanfoot",
+  "price": 3499,
+  "description": "Formal / Office shoe with leather upper.",
+  "specifications": {
+   "upper_material": "leather",
+   "cushioning": "medium",
+   "weight_g": 240
+  },
+  "attributes": [
+   "formal",
+   "office"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-014",
+  "name": "Urbanfoot Canvas Low",
+  "category": "shoes",
+  "brand": "Urbanfoot",
+  "price": 1499,
+  "description": "Casual / Budget shoe with canvas upper.",
+  "specifications": {
+   "upper_material": "canvas",
+   "cushioning": "medium",
+   "weight_g": 240
+  },
+  "attributes": [
+   "casual",
+   "budget"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-015",
+  "name": "Stride Orthocomfort",
+  "category": "shoes",
+  "brand": "Stride",
+  "price": 4299,
+  "description": "Walking / Comfort shoe with mesh upper.",
+  "specifications": {
+   "upper_material": "mesh",
+   "cushioning": "high",
+   "weight_g": 310
+  },
+  "attributes": [
+   "walking",
+   "comfort",
+   "arch support"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-016",
+  "name": "Pacelyn Gym Trainer",
+  "category": "shoes",
+  "brand": "Pacelyn",
+  "price": 3299,
+  "description": "Gym / Training shoe with synthetic upper.",
+  "specifications": {
+   "upper_material": "synthetic",
+   "cushioning": "medium",
+   "weight_g": 310
+  },
+  "attributes": [
+   "gym",
+   "training"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-017",
+  "name": "Dewleaf Gentle Cleanser",
+  "category": "skincare",
+  "brand": "Dewleaf",
+  "price": 349,
+  "description": "Cleanser suitable for sensitive skin.",
+  "specifications": {
+   "volume_ml": 30,
+   "fragrance_free": true,
+   "skin_type": "sensitive skin"
+  },
+  "attributes": [
+   "cleanser",
+   "sensitive skin",
+   "simple routine"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-018",
+  "name": "Dewleaf Daily Moisturizer",
+  "category": "skincare",
+  "brand": "Dewleaf",
+  "price": 499,
+  "description": "Moisturizer suitable for dry skin.",
+  "specifications": {
+   "volume_ml": 30,
+   "fragrance_free": false,
+   "skin_type": "dry skin"
+  },
+  "attributes": [
+   "moisturizer",
+   "dry skin",
+   "simple routine"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-019",
+  "name": "Dewleaf SPF 50 Sunscreen",
+  "category": "skincare",
+  "brand": "Dewleaf",
+  "price": 599,
+  "description": "Sunscreen suitable for all skin types.",
+  "specifications": {
+   "volume_ml": 30,
+   "fragrance_free": true,
+   "skin_type": "all skin types"
+  },
+  "attributes": [
+   "sunscreen",
+   "all skin types",
+   "simple routine"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-020",
+  "name": "Lumique Vitamin C Serum",
+  "category": "skincare",
+  "brand": "Lumique",
+  "price": 899,
+  "description": "Serum suitable for brightening.",
+  "specifications": {
+   "volume_ml": 50,
+   "fragrance_free": true,
+   "skin_type": "brightening"
+  },
+  "attributes": [
+   "serum",
+   "brightening"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-021",
+  "name": "Lumique Oil-Free Gel",
+  "category": "skincare",
+  "brand": "Lumique",
+  "price": 449,
+  "description": "Moisturizer suitable for oily skin.",
+  "specifications": {
+   "volume_ml": 150,
+   "fragrance_free": true,
+   "skin_type": "oily skin"
+  },
+  "attributes": [
+   "moisturizer",
+   "oily skin"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-022",
+  "name": "Lumique Retinol Night Cream",
+  "category": "skincare",
+  "brand": "Lumique",
+  "price": 1199,
+  "description": "Night Cream suitable for anti-aging.",
+  "specifications": {
+   "volume_ml": 50,
+   "fragrance_free": true,
+   "skin_type": "anti-aging"
+  },
+  "attributes": [
+   "night cream",
+   "anti-aging"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-023",
+  "name": "Purenest 3-Step Starter Kit",
+  "category": "skincare",
+  "brand": "Purenest",
+  "price": 1299,
+  "description": "Kit suitable for simple routine.",
+  "specifications": {
+   "volume_ml": 50,
+   "fragrance_free": false,
+   "skin_type": "simple routine"
+  },
+  "attributes": [
+   "kit",
+   "simple routine",
+   "beginner"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-024",
+  "name": "Purenest Niacinamide 10%",
+  "category": "skincare",
+  "brand": "Purenest",
+  "price": 549,
+  "description": "Serum suitable for oily skin.",
+  "specifications": {
+   "volume_ml": 150,
+   "fragrance_free": true,
+   "skin_type": "oily skin"
+  },
+  "attributes": [
+   "serum",
+   "oily skin",
+   "acne-prone"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-025",
+  "name": "Nimbus Phone 8",
+  "category": "smartphones",
+  "brand": "Nimbus",
+  "price": 24999,
+  "description": "Smartphone with 8 GB RAM, 128 GB storage and 5000 mAh battery.",
+  "specifications": {
+   "ram_gb": 8,
+   "storage_gb": 128,
+   "battery_mah": 5000,
+   "screen_in": 6.7
+  },
+  "attributes": [
+   "camera",
+   "value"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-026",
+  "name": "Nimbus Phone 8 Pro",
+  "category": "smartphones",
+  "brand": "Nimbus",
+  "price": 39999,
+  "description": "Smartphone with 12 GB RAM, 256 GB storage and 5000 mAh battery.",
+  "specifications": {
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "battery_mah": 5000,
+   "screen_in": 6.1
+  },
+  "attributes": [
+   "camera",
+   "premium",
+   "fast charging"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-027",
+  "name": "Voltra V5",
+  "category": "smartphones",
+  "brand": "Voltra",
+  "price": 14999,
+  "description": "Smartphone with 6 GB RAM, 128 GB storage and 6000 mAh battery.",
+  "specifications": {
+   "ram_gb": 6,
+   "storage_gb": 128,
+   "battery_mah": 6000,
+   "screen_in": 6.7
+  },
+  "attributes": [
+   "budget",
+   "long battery"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-028",
+  "name": "Voltra V5 Max",
+  "category": "smartphones",
+  "brand": "Voltra",
+  "price": 19999,
+  "description": "Smartphone with 8 GB RAM, 256 GB storage and 6000 mAh battery.",
+  "specifications": {
+   "ram_gb": 8,
+   "storage_gb": 256,
+   "battery_mah": 6000,
+   "screen_in": 6.5
+  },
+  "attributes": [
+   "long battery",
+   "value"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-029",
+  "name": "Kestrel X Gaming Phone",
+  "category": "smartphones",
+  "brand": "Kestrel",
+  "price": 34999,
+  "description": "Smartphone with 12 GB RAM, 256 GB storage and 5500 mAh battery.",
+  "specifications": {
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "battery_mah": 5500,
+   "screen_in": 6.7
+  },
+  "attributes": [
+   "gaming",
+   "performance"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-030",
+  "name": "Orbita Mini",
+  "category": "smartphones",
+  "brand": "Orbita",
+  "price": 29999,
+  "description": "Smartphone with 8 GB RAM, 128 GB storage and 4200 mAh battery.",
+  "specifications": {
+   "ram_gb": 8,
+   "storage_gb": 128,
+   "battery_mah": 4200,
+   "screen_in": 6.7
+  },
+  "attributes": [
+   "compact",
+   "camera"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-031",
+  "name": "Sonora Buds Lite",
+  "category": "audio",
+  "brand": "Sonora",
+  "price": 1999,
+  "description": "Earbuds with 24h total battery.",
+  "specifications": {
+   "anc": false,
+   "battery_hours": 24,
+   "bluetooth": "5.3"
+  },
+  "attributes": [
+   "earbuds",
+   "budget"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-032",
+  "name": "Sonora Buds Pro ANC",
+  "category": "audio",
+  "brand": "Sonora",
+  "price": 6999,
+  "description": "Earbuds with 30h total battery and active noise cancellation.",
+  "specifications": {
+   "anc": true,
+   "battery_hours": 30,
+   "bluetooth": "5.3"
+  },
+  "attributes": [
+   "earbuds",
+   "noise cancelling",
+   "premium"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-033",
+  "name": "Echolab Studio Over-Ear",
+  "category": "audio",
+  "brand": "Echolab",
+  "price": 9999,
+  "description": "Headphones with 40h total battery and active noise cancellation.",
+  "specifications": {
+   "anc": true,
+   "battery_hours": 40,
+   "bluetooth": "5.3"
+  },
+  "attributes": [
+   "headphones",
+   "noise cancelling",
+   "work from home"
+  ],
+  "image_url": null
+ },
+ {
+  "sku": "DEMO-034",
+  "name": "Echolab Sport Neckband",
+  "category": "audio",
+  "brand": "Echolab",
+  "price": 1499,
+  "description": "Neckband with 20h total battery.",
+  "specifications": {
+   "anc": false,
+   "battery_hours": 20,
+   "bluetooth": "5.3"
+  },
+  "attributes": [
+   "neckband",
+   "sports",
+   "budget"
+  ],
+  "image_url": null
+ }
+]
